@@ -1,4 +1,4 @@
-# Spring One Tour - Denver - Open Spaces
+# Denver - Open Spaces
 
 ## Rules of Open Space
 
@@ -15,6 +15,10 @@
 4. Arrange topics in timeline / spaces
 
 ## Timeline
+
+2:10 - Introduction
+
+2:20 - Planning
 
 | Time | Classroom 1 | Classroom 2 | Main 1 | Main 2 |
 |---|---|---|---|---|
