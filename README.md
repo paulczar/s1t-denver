@@ -7,6 +7,10 @@
 3. Whenever it starts its the right time
 4. When it’s over, it’s over
 
+## Law of Two Feet
+
+Contribute, Learn, or __GTFO__.
+
 ## Process 
 
 1. First we brainstorm sessions by forming a line on the side of the stage
